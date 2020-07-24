@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlightMobileApp</string>
+    <string name="button1St">1</string>
+    <string name="button2St">2</string>
+    <string name="button3St">3</string>
+    <string name="button4St">4</string>
+    <string name="button5St">5</string>
+    <string name="enterURLst">Type URL</string>
+    <string name="connectSt">Connect</string>
+    <string name="connect">Connect</string>
+    <string name="type_url_adress">Type URL</string>
+</resources>
